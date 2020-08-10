@@ -1,0 +1,1 @@
+<h1>Book Detail with ID: {{ $id }}</h1>
